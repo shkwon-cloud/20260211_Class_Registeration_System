@@ -1,0 +1,5 @@
+실행하기
+MySQL Workbench 실행
+npm run dev
+또다른 shell에서 python main.py (코드 내부에서 uvicorn 이 불리게 되어 있음.)
+ 
